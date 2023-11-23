@@ -1,0 +1,3 @@
+C:/Users/Amila Huzbasic/CLionProjects/Auta/cmake-build-debug/CMakeFiles/Auta.dir
+C:/Users/Amila Huzbasic/CLionProjects/Auta/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Amila Huzbasic/CLionProjects/Auta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
